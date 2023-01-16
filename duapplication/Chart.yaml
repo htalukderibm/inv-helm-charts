@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: duapplication
+description: Chart to configure ArgoCD with the duapplication project and its applications
